@@ -50,15 +50,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dewin05&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dewin05&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## 💬 Let's Connect
 
 - 🌐 Website: [dewin05.netlify.app](https://dewin05.netlify.app)
