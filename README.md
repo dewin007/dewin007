@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dewin J</h1>
+<h1 align="center">Hi, I'm Dewin </h1>
 <h3 align="center">Frontend Developer | React Tech Lead | UI Library Builder</h3>
 
 <p align="center">
